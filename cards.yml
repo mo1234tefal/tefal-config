@@ -1,0 +1,12 @@
+build:
+  version: 2.1
+
+cards:
+  message: "Welcome to Tefal cards related local APIs "
+  contactDetails:
+    name: "Mohamed Abdou - Developer"
+    email: "mohamed@tefal.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-19
+

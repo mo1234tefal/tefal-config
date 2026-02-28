@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Tefal bank accounts related local APIs"
+  contactDetails:
+    name: "mohamed - Developer"
+    email: "tmo090461@gmail.com"
+  onCallSupport:
+    -(555)895-843
+    -(555)895-874

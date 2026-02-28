@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Tefal bank accounts related to QA APIs"
+  contactDetails:
+    name: "mohamed - QA Lead"
+    email: "tmo090461@gmail.com"
+  onCallSupport:
+    -(666)895-8435
+    -(666)895-8744

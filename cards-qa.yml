@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Tefal cards related QA APIs "
+  contactDetails:
+    name: "Ahmed Abdou - QA Lead"
+    email: "ahmed@tefal.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
