@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Tefal cards related prod APIs "
+  message: "Welcome to Tefal cards related production APIs "
   contactDetails:
     name: "Mohamed Abdou - Product Owner"
     email: "mohamed@tefal.com"
