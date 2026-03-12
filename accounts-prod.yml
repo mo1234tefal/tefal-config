@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Tefal accounts related prod APIs "
+  message: "Welcome to Tefal accounts related production APIs "
   contactDetails:
     name: "Mohamed Saad - Product Owner"
     email: "aishwarya@eazybank.com"
